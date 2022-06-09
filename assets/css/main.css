@@ -1026,7 +1026,8 @@ section {
 .about .nav-link {
   background: none;
   font-size: 18px;
-  font-weight: 400;
+  /* font-weight: 400; */
+  font-weight: 500;
   color: var(--color-secondary);
   padding: 12px 0;
   margin-bottom: -2px;
